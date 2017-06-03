@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 66.145832 29.104167"
+   height="110"
+   width="250">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6196">
+      <stop
+         id="stop6194"
+         offset="0"
+         style="stop-color:#231376;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-267.89582)"
+     id="layer1">
+    <text
+       transform="scale(0.97216668,1.0286302)"
+       id="text3746"
+       y="284.58337"
+       x="26.463444"
+       style="font-style:normal;font-weight:normal;font-size:10.53239727px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231376;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26330993"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.27775383px;font-family:Impact;-inkscape-font-specification:Impact;fill:#231376;fill-opacity:1;fill-rule:nonzero;stroke-width:0.26330993"
+         y="284.58337"
+         x="26.463444"
+         id="tspan3744">SPQ</tspan></text>
+    <g
+       style="opacity:0.82999998"
+       transform="matrix(0.80392156,0,0,0.83856516,0.0154096,51.561952)"
+       id="g6274">
+      <path
+         style="fill:#231378;fill-opacity:1;fill-rule:nonzero;stroke-width:0.26458332"
+         id="path6217"
+         d="m 26.19637,281.54415 -9.96839,5.73935 -9.9546205,-5.7632 0.013769,-11.50256 9.968389,-5.73935 9.954621,5.7632 z" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219"
+         cx="16.110769"
+         cy="286.39047"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-6"
+         cx="25.410479"
+         cy="281.54413"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-8"
+         cx="25.672441"
+         cy="270.80362"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-9"
+         cx="16.503712"
+         cy="264.77844"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-91"
+         cx="6.5490918"
+         cy="270.0177"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-2"
+         cx="6.8110561"
+         cy="280.49628"
+         r="3.7984736" />
+      <circle
+         style="fill:#2313ca;fill-opacity:0.55276382;fill-rule:nonzero;stroke-width:0.13229166"
+         id="path6219-3"
+         cx="15.979786"
+         cy="275.78091"
+         r="3.7984736" />
+    </g>
+    <rect
+       rx="0"
+       ry="0"
+       y="287.83127"
+       x="24.10066"
+       height="1.8337048"
+       width="40.342411"
+       id="rect6276"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.26631829" />
+    <rect
+       rx="0"
+       ry="0"
+       y="274.86591"
+       x="25.01576"
+       height="1.8337049"
+       width="39.032589"
+       id="rect6276-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.26195928" />
+  </g>
+</svg>
